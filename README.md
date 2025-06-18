@@ -24,3 +24,6 @@
 [^2]:Vagabond,Vinland Saga.
 [^3]:[Epso Dungeon](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
+
+### More info. {#Info-001}
+
