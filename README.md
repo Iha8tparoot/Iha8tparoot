@@ -9,3 +9,10 @@
 |Things i like|Things i Don't like|
 |-------------|-------------------|
 |cat|parrot|
+
+```
+{
+  "FirstPetName": "Jinx",
+  "LastPetName": "Jinx",
+  "Age": "1 And a Half Year"
+}
