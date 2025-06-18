@@ -16,3 +16,9 @@
   "LastPetName": "Jinx",
   "Age": "1 And a Half Year"
 }
+- I like to play pixel games. [^1]
+- As well as Reading manga,[^2] and watching Anime [^3]
+[^1]:Undertale,Shattered Pixel Dungeon,Stardew valley.
+[^2]:Vagabond,Vinland Saga.
+[^3]:[Epso Dungeon](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+
