@@ -5,3 +5,7 @@
 - >I like cookies 🍪
 - [My YT Channel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 - ![image](https://github.com/user-attachments/assets/a6b36ec5-a428-470c-88ae-721a8720854e)
+
+|Things i like|Things i Don't like|
+|-------------|-------------------|
+|cat|parrot|
